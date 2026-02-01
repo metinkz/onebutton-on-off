@@ -1,7 +1,7 @@
 # One-Button Start/Stop Control System
 
-A PLC training project developed in **Siemens TIA Portal** that demonstrates how to control a system using a **single push button**.
-The project implements explicit ON and OFF states using internal memory bits to achieve start/stop behavior.
+An exercise project developed in **Siemens TIA Portal** that demonstrates how to control a system using a **single push button**.
+The project implements ON and OFF states using internal memory bits to achieve start/stop behavior.
 
 ## System Overview
 - The system is controlled using one push button.
